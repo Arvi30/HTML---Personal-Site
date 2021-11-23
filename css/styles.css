@@ -10,3 +10,14 @@
     border-width: 5px;
     width: 5%;
   }
+  h1  {
+    color: #66BFBF;
+    text-decoration: underline;
+    letter-spacing: 3px;
+    font-family: sans-serif Helvitica;
+  }
+
+  h3  {
+    color: #6B4F4F;
+
+  }
